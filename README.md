@@ -77,7 +77,6 @@ Atuo no setor de **Telemetria**, contribuindo no desenvolvimento de soluções t
   />
 </p>
 
-<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=Edufreijr&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
