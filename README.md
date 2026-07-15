@@ -72,18 +72,9 @@ Atuo no setor de **Telemetria**, contribuindo no desenvolvimento de soluções t
   />
 </p>
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Edufreijr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
+<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Edufreijr&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edufreijr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Top Languages"
-  />
+<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Edufreijr&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
