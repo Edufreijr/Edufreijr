@@ -67,14 +67,21 @@ Atuo no setor de **Telemetria**, contribuindo no desenvolvimento de soluções t
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-streak-stats.herokuapp.com?user=Edufreijr&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=Edufreijr&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Edufreijr&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
 
-<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Edufreijr&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Edufreijr&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Edufreijr&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
