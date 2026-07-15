@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Banner do perfil">
+  <img src="./Banner.png" width="100%" alt="Banner do perfil">
 </p>
 <h1 align="center">Olá! 👋 Eu sou Eduardo Freitas</h1>
 
